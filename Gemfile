@@ -8,7 +8,7 @@ gem 'rails', '4.1.4'
 
 # Use 
 group :development do
-	gem 'sqlite3'
+	gem 'mysql3'
 end
 
 group :production do
